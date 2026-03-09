@@ -2,7 +2,7 @@
 ## Google Collab Link: 
 https://colab.research.google.com/drive/1fFXIVqM-WstrMscIJ11hH5FTaK91AlOq?usp=sharing
 
-# Activity 3 – Guide Questions – Answers (Part 1)
+# Activity 3 – Guide Questions & Answers (Part 1)
 # 1. Dataset Preparation
 ## How did you organize your dataset in Google Drive?
 
@@ -48,7 +48,7 @@ This model can be used in a plant identification system to help users recognize 
 
 The model can be deployed in a mobile or web app using TensorFlow Lite or TensorFlow.js, allowing users to upload or capture images and receive predictions instantly.
 
-# Activity 3A – Guide Questions Answers (Last Part)
+# Activity 3A – Guide Questions & Answers (Last Part)
 # Visualization & Overfitting
 ## 1. What signs indicated overfitting in your first model?
 
