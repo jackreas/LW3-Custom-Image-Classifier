@@ -2,7 +2,7 @@
 ## Google Collab Link: 
 https://colab.research.google.com/drive/1fFXIVqM-WstrMscIJ11hH5FTaK91AlOq?usp=sharing
 
-# Guide Questions – Answers (Part 1)
+# Activity 3 – Guide Questions – Answers (Part 1)
 # 1. Dataset Preparation
 ## How did you organize your dataset in Google Drive?
 
